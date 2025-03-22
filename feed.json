@@ -5,24 +5,10 @@
     "home_page_url": "https://10015.ca",
     "feed_url": "https://10015.ca/feed.json",
     "user_comment": "",
-    "icon": "https://10015.ca/media/website/easy-open-cv-running-pipelines.png",
+    "icon": "https://10015.ca/media/website/hyperdroidds_logo.png",
     "author": {
-        "name": "FTC 10015"
+        "name": "10015 students"
     },
     "items": [
-        {
-            "id": "https://10015.ca/some-post.html",
-            "url": "https://10015.ca/some-post.html",
-            "title": "Some Post",
-            "summary": "This is a \"post\" not a \"page\". one zero zero one five dot ca",
-            "content_html": "<p>This is a \"post\" not a \"page\". <a href=\"https://10015.ca\">one zero zero one five dot ca</a></p>",
-            "author": {
-                "name": "FTC 10015"
-            },
-            "tags": [
-            ],
-            "date_published": "2025-03-22T11:12:56-06:00",
-            "date_modified": "2025-03-22T11:12:56-06:00"
-        }
     ]
 }
