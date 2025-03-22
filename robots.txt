@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://10015.ca/sitemap.xml
