@@ -3,10 +3,30 @@
     <title>10015.ca</title>
     <link href="https://10015.ca/feed.xml" rel="self" />
     <link href="https://10015.ca" />
-    <updated>1969-12-31T17:00:00-07:00</updated>
+    <updated>2025-03-22T11:12:56-06:00</updated>
     <author>
         <name>FTC 10015</name>
     </author>
     <id>https://10015.ca</id>
 
+    <entry>
+        <title>Some Post</title>
+        <author>
+            <name>FTC 10015</name>
+        </author>
+        <link href="https://10015.ca/some-post.html"/>
+        <id>https://10015.ca/some-post.html</id>
+
+        <updated>2025-03-22T11:12:56-06:00</updated>
+            <summary>
+                <![CDATA[
+                    This is a "post" not a "page". one zero zero one five dot ca
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>This is a "post" not a "page". <a href="https://10015.ca">one zero zero one five dot ca</a></p>
+            ]]>
+        </content>
+    </entry>
 </feed>

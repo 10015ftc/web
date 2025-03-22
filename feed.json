@@ -9,5 +9,19 @@
         "name": "FTC 10015"
     },
     "items": [
+        {
+            "id": "https://10015.ca/some-post.html",
+            "url": "https://10015.ca/some-post.html",
+            "title": "Some Post",
+            "summary": "This is a \"post\" not a \"page\". one zero zero one five dot ca",
+            "content_html": "<p>This is a \"post\" not a \"page\". <a href=\"https://10015.ca\">one zero zero one five dot ca</a></p>",
+            "author": {
+                "name": "FTC 10015"
+            },
+            "tags": [
+            ],
+            "date_published": "2025-03-22T11:12:56-06:00",
+            "date_modified": "2025-03-22T11:12:56-06:00"
+        }
     ]
 }
