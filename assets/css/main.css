@@ -77,7 +77,8 @@ body {
 }
 
 a {
-  text-decoration: underline;
+  text-decoration: underline !importat;
+  color: #3598db !important;
 }
 a {
   color: var(--link-color);
