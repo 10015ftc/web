@@ -1293,7 +1293,7 @@ textarea {
 .feed__author {
   font-family: var(--menu-font);
   font-variation-settings: "wght" var(--font-weight-bold);
-  text-decoration: none;
+//  text-decoration: none;
 }
 .feed__author-thumb {
   border-radius: 50%;
